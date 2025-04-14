@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently learning...
+### 🔭 I’m currently learning...
 - [x] Github
 - [ ] Github Actions
+
+---
+
+### My tecnologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width:"100px">
