@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 ### 🔭 I’m currently learning...
 - [x] Github
-- [ ] Github Actions
+- [x] Github Actions
+- [x] Docker
+- [ ] GCP e AWS
+- [ ] Kubernetes 
 
 ---
 
